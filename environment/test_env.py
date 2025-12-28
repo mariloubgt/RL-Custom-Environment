@@ -1,6 +1,6 @@
 print("Starting environment test...")
 
-from orbital_defender_env import OrbitalDefenderEnv
+from environment.orbital_defender_env import OrbitalDefenderEnv
 
 env = OrbitalDefenderEnv()
 
