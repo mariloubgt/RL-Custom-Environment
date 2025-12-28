@@ -2,7 +2,7 @@
 
 # Orbital Defender, Project Progress Summary
 
-This document explains **everything implemented so far** so that any team member can understand the project structure, design choices, and current status.
+This document explains **everything implemented so far** so that you can understand the project structure, design choices, and current status.
 
 ---
 
